@@ -1,8 +1,8 @@
 
 
 
-## TP Overview
-This TP focuses on analyzing New York City taxi trip data using Apache Spark, demonstrating the application of big data processing techniques and spatial analysis.
+##  Overview
+This project focuses on analyzing New York City taxi trip data using Apache Spark, demonstrating the application of big data processing techniques and spatial analysis.
 
 ### Technical Stack:
 Here is the tools and libraries we're going to use in this TP
